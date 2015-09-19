@@ -1,0 +1,14 @@
+{
+  "name": "frontstart",
+  "version": "1.0.0",
+  "description": "All you need for your Front-end Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaud Prat",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
