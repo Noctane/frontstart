@@ -2,7 +2,6 @@
 var gulp = require('gulp');
 
 // require other packages
-var serve = require('gulp-serve');
 var concat = require('gulp-concat');
 var cssmin = require('gulp-minify-css');
 var rename = require("gulp-rename");

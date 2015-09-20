@@ -351,3 +351,8 @@ table {
 td,
 th {
   padding: 0; }
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  background-color: red; }
